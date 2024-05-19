@@ -17,7 +17,6 @@ class Contact extends React.Component {
       <div>
         <h1>thanks for contact!!!!</h1>
         <UserClass name={"first "} location={"location from  class"} />
-        <UserClass name={"Second "} location={"location from class"} />
       </div>
     );
   }
