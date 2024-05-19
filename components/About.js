@@ -1,4 +1,3 @@
-
 import UserClass from "./UserClass";
 import React from "react";
 class Contact extends React.Component {
@@ -23,6 +22,5 @@ class Contact extends React.Component {
     );
   }
 }
-
 
 export default Contact;
